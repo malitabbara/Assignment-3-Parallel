@@ -1,0 +1,5 @@
+Avg execution time:
+
+0.00312828544 s tiled-mxn ~ 0.00313 s
+
+0.03689805598 s basic-mxn ~ 0.0369 s
